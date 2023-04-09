@@ -1,3 +1,6 @@
+# feature/hw/ex_3
+# HW-2: Fedor_xp28@student.itstep.org
+
 try:
     string = input("Enter a string: ")
     search_word = input("Search for: ")
