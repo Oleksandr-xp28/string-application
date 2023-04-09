@@ -1,5 +1,6 @@
 # feature/hw/ex_1
-# HW-1: Write a program that asks the user for a string and prints out whether this string is a palindrome or not. (A palindrome is a string that reads the same forwards and backwards.)
+# HW-2: Fedor_xp28@student.itstep.org
+
 try:
     text = input("Enter a string: ")
     result = ""
@@ -9,7 +10,9 @@ try:
 except Exception as e :
     print("Error: ", e)
 finally:
-#    print("Program terminated")
+    print("Program terminated")
     exit()
 
 # Path: string_application.py
+
+
